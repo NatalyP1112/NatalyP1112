@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Natalija and here is a short info about me:<br>👩‍🎓 Student <br>     (B.E. Artificial Intelligence - 1st year)<br>🌱 Currently learning: <br>      Python, HTML/CSS, Unix <br><br>Nice to meet you! <br>Enjoy my not-so-beautiful but full-of-potential profile ;)
+Hi! I'm Natalija and here is a short info about me:<br>👩‍🎓 Student <br>     (B.E. Artificial Intelligence - 3rd year)<br><br>Nice to meet you! <br>Enjoy my not-so-beautiful but full-of-potential profile ;)
 
 
 ## 🌐 Socials:
